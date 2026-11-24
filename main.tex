@@ -18,6 +18,10 @@
 \usepackage{setspace}
 \onehalfspacing
 
+\addto\captionsindonesian{
+  \renewcommand{\chaptername}{BAB}
+}
+
 \begin{document}
 
 % Membuat halaman judul atau daftar isi
@@ -25,6 +29,7 @@
 \newpage
 
 % Memanggil file bab terpisah (tanpa ekstensi .tex)
-\include{pengantar.tex}
+\include{pengantar}
+\include{kitab_thaharah}
 
 \end{document}

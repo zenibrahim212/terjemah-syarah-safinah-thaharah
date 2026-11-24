@@ -1,0 +1,30 @@
+% !TEX program = xelatex
+\documentclass[12pt,a4paper]{report}
+
+% 1. Pengaturan Font & Bahasa (Wajib XeLaTeX / LuaLaTeX)
+\usepackage{fontspec}
+\usepackage{polyglossia}
+\usepackage{libertine}
+
+% Bahasa utama dokumen (Indonesia)
+\setdefaultlanguage{indonesian}
+% Bahasa kedua (Arab)
+\setotherlanguage{arabic}
+
+\newfontfamily\arabicfont[Script=Arabic, Scale=0.8]{Amiri}
+
+
+\usepackage[margin=2.5cm]{geometry}
+\usepackage{setspace}
+\onehalfspacing
+
+\begin{document}
+
+% Membuat halaman judul atau daftar isi
+\tableofcontents
+\newpage
+
+% Memanggil file bab terpisah (tanpa ekstensi .tex)
+\include{pengantar.tex}
+
+\end{document}

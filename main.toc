@@ -2,3 +2,7 @@
 \contentsline {chapter}{\numberline {1}Kitab Thaharah}{4}{}%
 \contentsline {section}{\numberline {1.1}Definisi Thaharah}{4}{}%
 \contentsline {section}{\numberline {1.2}Tujuan, Sarana, dan Perantara Sarana Thaharah}{5}{}%
+\contentsline {chapter}{\numberline {2}Tanda-tanda Baligh}{6}{}%
+\contentsline {section}{\numberline {2.1}Mencapai genap umur 15 tahun bagi laki–laki dan perempuan}{6}{}%
+\contentsline {section}{\numberline {2.2}Ihtilam pada umur 9 tahun bagi laki–laki dan perempuan}{7}{}%
+\contentsline {section}{\numberline {2.3}Haid pada usia 9 tahun bagi perempuan}{7}{}%

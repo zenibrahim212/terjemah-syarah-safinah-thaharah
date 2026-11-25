@@ -13,14 +13,40 @@
 
 \newfontfamily\arabicfont[Script=Arabic, Scale=0.8]{Amiri}
 
-
+% 2. Pengaturan Halaman & Spasi
 \usepackage[margin=2.5cm]{geometry}
 \usepackage{setspace}
 \onehalfspacing
 
+% 3. Bingkai Matan ala Kitab Syarah
+\usepackage{tcolorbox}
+\usepackage{xcolor}
+
+\definecolor{matanbg}{RGB}{250, 248, 242}
+\definecolor{matanborder}{RGB}{120, 90, 40}
+
+\newtcolorbox{matanbox}[1][Matan]{
+  colback=matanbg,
+  colframe=matanborder,
+  boxrule=0.8pt,
+  arc=2pt,
+  left=8pt,
+  right=8pt,
+  top=6pt,
+  bottom=6pt,
+  fonttitle=\bfseries\small,
+  title={#1},
+  before upper={\parindent=0pt }
+}
+
+% Penyesuaian penamaan BAB
 \addto\captionsindonesian{
   \renewcommand{\chaptername}{BAB}
 }
+
+\hyphenpenalty=500
+\exhyphenpenalty=500
+\emergencystretch=2em
 
 \begin{document}
 
@@ -31,5 +57,9 @@
 % Memanggil file bab terpisah (tanpa ekstensi .tex)
 \include{pengantar}
 \include{kitab_thaharah}
+\include{pasal _1}
+
+% Contoh penggunaan di dalam dokumen utama atau file bab (misal: kitab_thaharah.tex)
+
 
 \end{document}

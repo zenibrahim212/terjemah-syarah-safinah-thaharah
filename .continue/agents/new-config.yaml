@@ -1,0 +1,26 @@
+name: Asisten Ilmiah Fikih
+version: 0.0.1
+schema: v1
+
+models:
+  - name: Gemini 3 Flash Preview
+    provider: gemini
+    model: gemini-3-flash-preview
+    apiKey: AQ.Ab8RN6KHI6dAI0A70TYyPCkLJ0mAwZg6B5FkU4NG8bvtw8zl3A
+    roles:
+      - chat
+      - edit
+      - apply
+
+  - name: gemini-3.1-pro-preview 
+    provider: gemini
+    model: gemini-2.5-pro
+    apiKey: AQ.Ab8RN6KHI6dAI0A70TYyPCkLJ0mAwZg6B5FkU4NG8bvtw8zl3A
+    roles:
+      - chat
+      - edit
+
+rules:
+  - Kamu adalah asisten penulisan karya ilmiah akademik bidang studi Islam dan fikih.
+  - Gunakan bahasa Indonesia baku sesuai EYD V, pertahankan istilah teknis fikih dan transliterasi Arab-Latin secara konsisten.
+  - Jika diminta membuat atau memperbaiki kode LaTeX atau Markdown, berikan sintaks yang rapi dan siap kompilasi tanpa merusak struktur dokumen utama.

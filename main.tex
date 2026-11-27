@@ -5,7 +5,6 @@
 \usepackage{fontspec}
 \usepackage{polyglossia}
 \usepackage{libertine}
-
 % Bahasa utama dokumen (Indonesia)
 \setdefaultlanguage{indonesian}
 % Bahasa kedua (Arab)
@@ -17,6 +16,11 @@
 \usepackage[margin=2.5cm]{geometry}
 \usepackage{setspace}
 \onehalfspacing
+
+\usepackage{enumitem}
+% Menghilangkan jarak ekstra antar-item, tapi tetap menyisakan jarak atas & bawah daftar
+\setlist{nosep}
+
 
 % 3. Bingkai Matan ala Kitab Syarah
 \usepackage{tcolorbox}
@@ -57,7 +61,8 @@
 % Memanggil file bab terpisah (tanpa ekstensi .tex)
 \include{pengantar}
 \include{kitab_thaharah}
-\include{pasal _1}
+\include{pasal _01}
+\include{pasal_02}
 
 % Contoh penggunaan di dalam dokumen utama atau file bab (misal: kitab_thaharah.tex)
 

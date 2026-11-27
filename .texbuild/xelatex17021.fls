@@ -1,0 +1,4 @@
+PWD /home/zen/Documents/Rintisan Tulisan/Terjemah Thoharoh/terjemah-syarah-safinah-thaharah
+INPUT /etc/texmf/web2c/texmf.cnf
+INPUT /usr/share/texmf/web2c/texmf.cnf
+INPUT /var/lib/texmf/web2c/xetex/xelatex.fmt

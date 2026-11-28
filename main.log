@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025/Debian) (preloaded format=xelatex 2026.11.28)  28 NOV 2026 19:44
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025/Debian) (preloaded format=xelatex 2026.11.28)  28 NOV 2026 19:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -64,7 +64,20 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 \l_xpg_alias_keyvals_int=\count295
  (/usr/share/texlive/texmf-dist/tex/latex/polyglossia/gloss-latex.ldf
 File: gloss-latex.ldf polyglossia: module for default language
-)) (/usr/share/texlive/texmf-dist/tex/latex/libertinus/libertinus.sty
+))
+
+/home/zen/Documents/Rintisan Tulisan/Terjemah Thoharoh/terjemah-syarah-safinah-thaharah/main.tex:7: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 <
+     <<<<<< HEAD
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+(/usr/share/texlive/texmf-dist/tex/latex/libertinus/libertinus.sty
 Package: libertinus 2020/05/06 v. 0.02 (Herbert Voss) Supports libertinus fonts for pdflatex/lualatex/xelatex
  (/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2025/11/04 v2.10 package option processing (HA)
@@ -1596,6 +1609,756 @@ Package fontspec Info:
 
 ))
 
+/home/zen/Documents/Rintisan Tulisan/Terjemah Thoharoh/terjemah-syarah-safinah-thaharah/main.tex:9: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 =
+     ======
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+(/usr/share/texlive/texmf-dist/tex/latex/libertine/libertine.sty
+Package: libertine 2024/04/23 (Bob Tennent) Supports Libertine and Biolinum fonts for all LaTeX engines.
+ (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+) (/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+)
+Requested font "[LinLibertine_R.otf]/OT" at 11.99997pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_R.otf
+Requested font "[LinLibertine_R.otf]/OT" at 12.00003pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_R.otf
+
+Package fontspec Info: 
+(fontspec)             LinLibertine_R scale = 1.
+
+Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;" at 12.00003pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_R.otf
+
+Package fontspec Info: 
+(fontspec)             LinLibertine_R scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             LinLibertine_R scale = 1.
+
+Requested font "[LinLibertine_RB.otf]/OT:script=latn;language=dflt;" at 12.00003pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RB.otf
+
+Package fontspec Info: 
+(fontspec)             LinLibertine_RB scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             LinLibertine_RB scale = 1.
+
+Requested font "[LinLibertine_RI.otf]/OT:script=latn;language=dflt;" at 12.00003pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RI.otf
+
+Package fontspec Info: 
+(fontspec)             LinLibertine_RI scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             LinLibertine_RI scale = 1.
+
+Requested font "[LinLibertine_RBI.otf]/OT:script=latn;language=dflt;" at 12.00003pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RBI.otf
+
+Package fontspec Info: 
+(fontspec)             LinLibertine_RBI scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             LinLibertine_RBI scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'LinLibertine(0)' created for font
+(fontspec)             'LinLibertine' with options [Ligatures = TeX,Extension
+(fontspec)             = .otf,SmallCapsFeatures={Letters=SmallCaps},Ligatures
+(fontspec)             =
+(fontspec)             TeX,SmallCapsFeatures={Letters=SmallCaps},RawFeature={+hv-kern},Numbers
+(fontspec)             = {Monospaced,Lining},Scale = 1,UprightFont =
+(fontspec)             *_R,ItalicFont = *_RI,BoldFont = *_RB,BoldItalicFont =
+(fontspec)             *_RBI].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_R.otf]/OT:script=latn;language=dflt;+hv-kern;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_R.otf]/OT:script=latn;language=dflt;+hv-kern;+tnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_RB.otf]/OT:script=latn;language=dflt;+hv-kern;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_RB.otf]/OT:script=latn;language=dflt;+hv-kern;+tnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_RI.otf]/OT:script=latn;language=dflt;+hv-kern;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_RI.otf]/OT:script=latn;language=dflt;+hv-kern;+tnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_RBI.otf]/OT:script=latn;language=dflt;+hv-kern;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_RBI.otf]/OT:script=latn;language=dflt;+hv-kern;+tnum;+lnum;+smcp;mapping=tex-text;"
+
+LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
+(Font)              scaled to size 12.0pt on input line 307.
+Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+hv-kern;+tnum;+lnum;mapping=tex-text;" at 12.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_R.otf
+Requested font "[LinBiolinum_R.otf]/OT" at 11.99997pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinBiolinum_R.otf
+Requested font "[LinBiolinum_R.otf]/OT" at 12.00003pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinBiolinum_R.otf
+
+Package fontspec Info: 
+(fontspec)             LinBiolinum_R scale = 1.
+
+Requested font "[LinBiolinum_R.otf]/OT:script=latn;language=dflt;" at 12.00003pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinBiolinum_R.otf
+
+Package fontspec Info: 
+(fontspec)             LinBiolinum_R scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             LinBiolinum_R scale = 1.
+
+Requested font "[LinBiolinum_RB.otf]/OT:script=latn;language=dflt;" at 12.00003pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinBiolinum_RB.otf
+
+Package fontspec Info: 
+(fontspec)             LinBiolinum_RB scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             LinBiolinum_RB scale = 1.
+
+Requested font "[LinBiolinum_RI.otf]/OT:script=latn;language=dflt;" at 12.00003pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinBiolinum_RI.otf
+
+Package fontspec Info: 
+(fontspec)             LinBiolinum_RI scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             LinBiolinum_RI scale = 1.
+
+Requested font "[LinBiolinum_RBO.otf]/OT:script=latn;language=dflt;" at 12.00003pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinBiolinum_RBO.otf
+
+Package fontspec Info: 
+(fontspec)             LinBiolinum_RBO scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             LinBiolinum_RBO scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'LinBiolinum(0)' created for font
+(fontspec)             'LinBiolinum' with options [Ligatures = TeX,Extension =
+(fontspec)             .otf,SmallCapsFeatures={Letters=SmallCaps},Ligatures =
+(fontspec)             TeX,SmallCapsFeatures={Letters=SmallCaps},RawFeature={+hv-kern},Numbers
+(fontspec)             = {Monospaced, Lining},Scale = 1,UprightFont =
+(fontspec)             *_R,ItalicFont = *_RI,BoldFont = *_RB,BoldItalicFont =
+(fontspec)             *_RBO].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_R.otf]/OT:script=latn;language=dflt;+hv-kern;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_R.otf]/OT:script=latn;language=dflt;+hv-kern;+tnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RB.otf]/OT:script=latn;language=dflt;+hv-kern;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RB.otf]/OT:script=latn;language=dflt;+hv-kern;+tnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RI.otf]/OT:script=latn;language=dflt;+hv-kern;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RI.otf]/OT:script=latn;language=dflt;+hv-kern;+tnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RBO.otf]/OT:script=latn;language=dflt;+hv-kern;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RBO.otf]/OT:script=latn;language=dflt;+hv-kern;+tnum;+lnum;+smcp;mapping=tex-text;"
+
+
+Package fontspec Info: 
+(fontspec)             LinLibertine_R scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             LinLibertine_R scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             LinLibertine_R scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             LinLibertine_RB scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             LinLibertine_RB scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             LinLibertine_RI scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             LinLibertine_RI scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             LinLibertine_RBI scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             LinLibertine_RBI scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'LinLibertine(1)' created for font
+(fontspec)             'LinLibertine' with options [Ligatures = TeX,Extension
+(fontspec)             = .otf,SmallCapsFeatures={Letters=SmallCaps},Numbers =
+(fontspec)             {Monospaced,Lining},Scale = 1,UprightFont =
+(fontspec)             *_R,ItalicFont = *_RI,BoldFont = *_RB,BoldItalicFont =
+(fontspec)             *_RBI].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_RB.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_RB.otf]/OT:script=latn;language=dflt;+tnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_RI.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_RI.otf]/OT:script=latn;language=dflt;+tnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_RBI.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_RBI.otf]/OT:script=latn;language=dflt;+tnum;+lnum;+smcp;mapping=tex-text;"
+
+Requested font "[LinLibertine_RZ.otf]/OT" at 11.99997pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RZ.otf
+Requested font "[LinLibertine_RZ.otf]/OT" at 12.00003pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RZ.otf
+
+Package fontspec Info: 
+(fontspec)             LinLibertine_RZ scale = 1.
+
+Requested font "[LinLibertine_RZ.otf]/OT:script=latn;language=dflt;" at 12.00003pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RZ.otf
+
+Package fontspec Info: 
+(fontspec)             LinLibertine_RZ scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             LinLibertine_RZ scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             LinLibertine_RB scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             LinLibertine_RB scale = 1.
+
+Requested font "[LinLibertine_RZI.otf]/OT:script=latn;language=dflt;" at 12.00003pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RZI.otf
+
+Package fontspec Info: 
+(fontspec)             LinLibertine_RZI scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             LinLibertine_RZI scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             LinLibertine_RBI scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             LinLibertine_RBI scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'LinLibertine(2)' created for font
+(fontspec)             'LinLibertine' with options [Ligatures = TeX,Extension
+(fontspec)             = .otf,SmallCapsFeatures={Letters=SmallCaps},Numbers =
+(fontspec)             { Monospaced, Lining},Scale = 1,UprightFont =
+(fontspec)             *_RZ,ItalicFont = *_RZI,BoldFont = *_RB,BoldItalicFont
+(fontspec)             = *_RBI].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_RZ.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_RZ.otf]/OT:script=latn;language=dflt;+tnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_RB.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_RB.otf]/OT:script=latn;language=dflt;+tnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_RZI.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_RZI.otf]/OT:script=latn;language=dflt;+tnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_RBI.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_RBI.otf]/OT:script=latn;language=dflt;+tnum;+lnum;+smcp;mapping=tex-text;"
+
+
+Package fontspec Info: 
+(fontspec)             LinLibertine_R scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             LinLibertine_R scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             LinLibertine_R scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             LinLibertine_RB scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             LinLibertine_RB scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             LinLibertine_RI scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             LinLibertine_RI scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             LinLibertine_RBI scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             LinLibertine_RBI scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'LinLibertine(3)' created for font
+(fontspec)             'LinLibertine' with options [Ligatures = TeX,Extension
+(fontspec)             = .otf,SmallCapsFeatures={Letters=SmallCaps},Numbers =
+(fontspec)             {Monospaced,OldStyle},Scale = 1,UprightFont =
+(fontspec)             *_R,ItalicFont = *_RI,BoldFont = *_RB,BoldItalicFont =
+(fontspec)             *_RBI].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_RB.otf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_RB.otf]/OT:script=latn;language=dflt;+tnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_RI.otf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_RI.otf]/OT:script=latn;language=dflt;+tnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_RBI.otf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_RBI.otf]/OT:script=latn;language=dflt;+tnum;+onum;+smcp;mapping=tex-text;"
+
+
+Package fontspec Info: 
+(fontspec)             LinLibertine_R scale = 1.
+
+Requested font "[LinLibertine_DR.otf]/OT" at 11.99997pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_DR.otf
+Requested font "[LinLibertine_DR.otf]/OT" at 12.00003pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_DR.otf
+Requested font "[LinLibertine_DR.otf]/OT:script=latn;language=dflt;" at 12.00003pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_DR.otf
+
+Package fontspec Info: 
+(fontspec)             Font family 'LinLibertine(4)' created for font
+(fontspec)             'LinLibertine' with options [Ligatures = TeX,Extension
+(fontspec)             = .otf,SmallCapsFeatures={Letters=SmallCaps},Numbers =
+(fontspec)             {Monospaced,Lining},UprightFont = *_DR,ItalicFont =
+(fontspec)             *_RI,BoldFont = *_RB,BoldItalicFont = *_RBI].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[LinLibertine_DR.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[LinLibertine_RB.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"[LinLibertine_RB.otf]/OT:script=latn;language=dflt;+tnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[LinLibertine_RI.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"[LinLibertine_RI.otf]/OT:script=latn;language=dflt;+tnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"[LinLibertine_RBI.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"[LinLibertine_RBI.otf]/OT:script=latn;language=dflt;+tnum;+lnum;+smcp;mapping=tex-text;"
+
+
+Package fontspec Info: 
+(fontspec)             LinBiolinum_R scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             LinBiolinum_R scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             LinBiolinum_R scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             LinBiolinum_RB scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             LinBiolinum_RB scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             LinBiolinum_RI scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             LinBiolinum_RI scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             LinBiolinum_RBO scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             LinBiolinum_RBO scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'LinBiolinum(1)' created for font
+(fontspec)             'LinBiolinum' with options [Ligatures = TeX,Extension =
+(fontspec)             .otf,SmallCapsFeatures={Letters=SmallCaps},Numbers =
+(fontspec)             {Monospaced, Lining},Scale = 1,UprightFont =
+(fontspec)             *_R,ItalicFont = *_RI,BoldFont = *_RB,BoldItalicFont =
+(fontspec)             *_RBO].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RB.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RB.otf]/OT:script=latn;language=dflt;+tnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RI.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RI.otf]/OT:script=latn;language=dflt;+tnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RBO.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RBO.otf]/OT:script=latn;language=dflt;+tnum;+lnum;+smcp;mapping=tex-text;"
+
+
+Package fontspec Info: 
+(fontspec)             LinBiolinum_R scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             LinBiolinum_R scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             LinBiolinum_R scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             LinBiolinum_RB scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             LinBiolinum_RB scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             LinBiolinum_RI scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             LinBiolinum_RI scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             LinBiolinum_RBO scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             LinBiolinum_RBO scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'LinBiolinum(2)' created for font
+(fontspec)             'LinBiolinum' with options [Ligatures = TeX,Extension =
+(fontspec)             .otf,SmallCapsFeatures={Letters=SmallCaps},Numbers =
+(fontspec)             {Monospaced, OldStyle},Scale = 1,UprightFont =
+(fontspec)             *_R,ItalicFont = *_RI,BoldFont = *_RB,BoldItalicFont =
+(fontspec)             *_RBO].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_R.otf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_R.otf]/OT:script=latn;language=dflt;+tnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RB.otf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RB.otf]/OT:script=latn;language=dflt;+tnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RI.otf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RI.otf]/OT:script=latn;language=dflt;+tnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RBO.otf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinBiolinum_RBO.otf]/OT:script=latn;language=dflt;+tnum;+onum;+smcp;mapping=tex-text;"
+
+
+Package fontspec Info: 
+(fontspec)             LinBiolinum_R scale = 1.
+
+Requested font "[LinLibertine_M.otf]/OT" at 11.99997pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_M.otf
+Requested font "[LinLibertine_M.otf]/OT" at 12.00003pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_M.otf
+
+Package fontspec Info: 
+(fontspec)             LinLibertine_M scale = 1.
+
+Requested font "[LinLibertine_M.otf]/OT:script=latn;language=dflt;" at 12.00003pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_M.otf
+
+Package fontspec Info: 
+(fontspec)             LinLibertine_M scale = 1.
+
+Requested font "[LinLibertine_MB.otf]/OT:script=latn;language=dflt;" at 12.00003pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_MB.otf
+
+Package fontspec Info: 
+(fontspec)             LinLibertine_MB scale = 1.
+
+Requested font "[LinLibertine_MO.otf]/OT:script=latn;language=dflt;" at 12.00003pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_MO.otf
+
+Package fontspec Info: 
+(fontspec)             LinLibertine_MO scale = 1.
+
+Requested font "[LinLibertine_MBO.otf]/OT:script=latn;language=dflt;" at 12.00003pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_MBO.otf
+
+Package fontspec Info: 
+(fontspec)             LinLibertine_MBO scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'LinLibertine(5)' created for font
+(fontspec)             'LinLibertine' with options [Extension =
+(fontspec)             .otf,HyphenChar=None,WordSpace={1,0,0},HyphenChar=None,PunctuationSpace=WordSpace,Scale
+(fontspec)             = 1,UprightFont = *_M,ItalicFont = *_MO,BoldFont =
+(fontspec)             *_MB,BoldItalicFont = *_MBO].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_M.otf]/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_MB.otf]/OT:script=latn;language=dflt;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_MO.otf]/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_MBO.otf]/OT:script=latn;language=dflt;"
+
+
+Package fontspec Info: 
+(fontspec)             LinLibertine_M scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             LinLibertine_M scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             LinLibertine_MB scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             LinLibertine_MO scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             LinLibertine_MBO scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'LinLibertine(6)' created for font
+(fontspec)             'LinLibertine' with options [Extension =
+(fontspec)             .otf,HyphenChar=None,Scale = 1,UprightFont =
+(fontspec)             *_M,ItalicFont = *_MO,BoldFont = *_MB,BoldItalicFont =
+(fontspec)             *_MBO].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_M.otf]/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_MB.otf]/OT:script=latn;language=dflt;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_MO.otf]/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[LinLibertine_MBO.otf]/OT:script=latn;language=dflt;"
+
+Requested font "[LinBiolinum_K.otf]/OT" at 11.99997pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinBiolinum_K.otf
+Requested font "[LinBiolinum_K.otf]/OT" at 12.00003pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinBiolinum_K.otf
+Requested font "[LinBiolinum_K.otf]/OT:script=latn;language=dflt;" at 12.00003pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinBiolinum_K.otf
+
+Package fontspec Info: 
+(fontspec)             Font family 'LinBiolinum_K(0)' created for font
+(fontspec)             'LinBiolinum_K' with options [Extension =
+(fontspec)             .otf,HyphenChar=None,BoldFont={},ItalicFont={},SmallCapsFont={}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[LinBiolinum_K.otf]/OT:script=latn;language=dflt;"
+
+Requested font "[LinLibertine_I.otf]/OT" at 11.99997pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_I.otf
+Requested font "[LinLibertine_I.otf]/OT" at 12.00003pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_I.otf
+Requested font "[LinLibertine_I.otf]/OT:script=latn;language=dflt;" at 12.00003pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_I.otf
+
+Package fontspec Info: 
+(fontspec)             Font family 'LinLibertine_I(0)' created for font
+(fontspec)             'LinLibertine_I' with options [Extension =
+(fontspec)             .otf,HyphenChar=None,BoldFont={},ItalicFont={},SmallCapsFont={}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[LinLibertine_I.otf]/OT:script=latn;language=dflt;"
+
+LaTeX Info: Redefining \textsup on input line 468.
+LaTeX Info: Redefining \oldstylenums on input line 475.
+LaTeX Info: Redefining \liningnums on input line 476.
+ (/usr/share/texlive/texmf-dist/tex/latex/libertine/LinLibertine_R.tex) (/usr/share/texlive/texmf-dist/tex/latex/libertine/LinBiolinum_R.tex) (/usr/share/texlive/texmf-dist/tex/latex/libertine/LinBiolinum_K.tex) (/usr/share/texlive/texmf-dist/tex/latex/libertine/LinLibertine_I.tex)
+LaTeX Info: Redefining \biolinumKeyGlyph on input line 548.
+ (/usr/share/texlive/texmf-dist/tex/latex/libertine/LKey.tex
+LaTeX Info: Redefining \LKey on input line 1.
+LaTeX Info: Redefining \LKeyTux on input line 14.
+LaTeX Info: Redefining \LKeyWin on input line 15.
+LaTeX Info: Redefining \LKeyMenu on input line 16.
+LaTeX Info: Redefining \LKeyStrg on input line 17.
+LaTeX Info: Redefining \LKeyCtrl on input line 18.
+LaTeX Info: Redefining \LKeyAlt on input line 19.
+LaTeX Info: Redefining \LKeyAltGr on input line 20.
+LaTeX Info: Redefining \LKeyShift on input line 21.
+LaTeX Info: Redefining \LKeyTab on input line 22.
+LaTeX Info: Redefining \LKeyEnter on input line 23.
+LaTeX Info: Redefining \LKeyPos on input line 25.
+LaTeX Info: Redefining \LKeyEntf on input line 26.
+LaTeX Info: Redefining \LKeyEinf on input line 27.
+LaTeX Info: Redefining \LKeyLeer on input line 28.
+LaTeX Info: Redefining \LKeyEsc on input line 29.
+LaTeX Info: Redefining \LKeyEnde on input line 30.
+LaTeX Info: Redefining \LKeyCommand on input line 31.
+LaTeX Info: Redefining \LKeyOptionKey on input line 32.
+LaTeX Info: Redefining \LKeyBack on input line 34.
+LaTeX Info: Redefining \LKeyUp on input line 35.
+LaTeX Info: Redefining \LKeyDown on input line 36.
+LaTeX Info: Redefining \LKeyLeft on input line 37.
+LaTeX Info: Redefining \LKeyRight on input line 38.
+LaTeX Info: Redefining \LKeyAt on input line 41.
+LaTeX Info: Redefining \LKeyFn on input line 42.
+LaTeX Info: Redefining \LKeyHome on input line 43.
+LaTeX Info: Redefining \LKeyDel on input line 44.
+LaTeX Info: Redefining \LKeySpace on input line 45.
+LaTeX Info: Redefining \LKeyIns on input line 48.
+LaTeX Info: Redefining \LKeyEnd on input line 49.
+LaTeX Info: Redefining \LKeyGNU on input line 50.
+LaTeX Info: Redefining \LKeyPageUp on input line 51.
+LaTeX Info: Redefining \LKeyPageDown on input line 52.
+LaTeX Info: Redefining \LKeyF on input line 70.
+LaTeX Info: Redefining \LKeyAltF on input line 71.
+LaTeX Info: Redefining \LKeyStrgAltF on input line 72.
+LaTeX Info: Redefining \LKeyStrgX on input line 74.
+LaTeX Info: Redefining \LKeyShiftX on input line 76.
+LaTeX Info: Redefining \LKeyAltX on input line 77.
+LaTeX Info: Redefining \LKeyAltGrX on input line 78.
+LaTeX Info: Redefining \LKeyShiftStrgX on input line 79.
+LaTeX Info: Redefining \LKeyShiftAltX on input line 81.
+LaTeX Info: Redefining \LKeyShiftAltGrX on input line 82.
+LaTeX Info: Redefining \LKeyStrgAltX on input line 83.
+LaTeX Info: Redefining \LKeyPad on input line 104.
+)
+LaTeX Info: Redefining \textsup on input line 552.
+)
+
+/home/zen/Documents/Rintisan Tulisan/Terjemah Thoharoh/terjemah-syarah-safinah-thaharah/main.tex:11: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 >
+      >>>>>> d70b9bf770ae1c11c2e3876514f96f5eab6c395f
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
 Package polyglossia Warning: File gloss-indonesian.ldf does not exist!
 (polyglossia)                I will nevertheless try to use hyphenation
 (polyglossia)                patterns for indonesian.
@@ -1737,54 +2500,53 @@ LaTeX Info: Redefining \addtolength on input line 87.
 \c@Hijriyear=\count334
 ))
 Requested font "Amiri/OT" at 11.99997pt
- -> ^^*'^^Î^^%^^L`
+ -> ^^à^^	^^^^Î^^Eb
 Requested font "Amiri/OT" at 12.00003pt
- -> ]W^^î
+ -> a^^7: ^^F
 
 Package fontspec Info: 
 (fontspec)             Amiri scale = 0.8.
 
 Requested font "Amiri/OT:script=arab;language=dflt;" at 12.00002pt
- -> ^^ÁW^^î
+ -> ^^Æ^^7: ^^F
 Requested font "Amiri/BI/OT:script=arab;language=dflt;" at 12.00002pt
- -> ^^æW^^î
+ -> ^^ë^^7: ^^F
 Requested font "Amiri/OT:script=arab;language=dflt;" at 12.00002pt
- -> ^^
-W^^î
+ -> ^^^^7: ^^F
 Requested font "Amiri/B/OT:script=arab;language=dflt;" at 12.00002pt
- -> Z^^ë^^^^%^^L`
+ -> O^^ÿE^^Ï^^Eb
 Requested font "Amiri/OT:script=arab;language=dflt;" at 12.00002pt
- -> ^^/W^^î
+ -> ^^4^^7: ^^F
 Requested font "Amiri/I/OT:script=arab;language=dflt;" at 12.00002pt
- -> ?^^U/^^%^^L`
+ -> 4y^^û^^Ï^^Eb
 Requested font "Amiri/OT:script=arab;language=dflt;" at 12.00003pt
- -> ^^TX^^î
+ -> ^^Y^^8: ^^F
 Requested font "Amiri/OT:script=arab;language=dflt;" at 12.00003pt
- -> <X^^î
+ -> @^^8: ^^F
 
 Package fontspec Info: 
 (fontspec)             Amiri scale = 0.8.
 
 Requested font "Amiri/B/OT:script=arab;language=dflt;" at 12.00003pt
- -> \|(^^%^^L`
+ -> ^^P^^È^^ü^^Ï^^Eb
 Requested font "Amiri/B/OT:script=arab;language=dflt;" at 12.00003pt
- -> bX^^î
+ -> g^^8: ^^F
 
 Package fontspec Info: 
 (fontspec)             Amiri/B scale = 0.8.
 
 Requested font "Amiri/I/OT:script=arab;language=dflt;" at 12.00003pt
- -> ^^^^å&^^%^^L`
+ -> '^^ê^^ó^^Ï^^Eb
 Requested font "Amiri/I/OT:script=arab;language=dflt;" at 12.00003pt
- -> ^^ÏX^^î
+ -> ^^Õ^^8: ^^F
 
 Package fontspec Info: 
 (fontspec)             Amiri/I scale = 0.8.
 
 Requested font "Amiri/BI/OT:script=arab;language=dflt;" at 12.00003pt
- -> ^^ï^^ä%^^%^^L`
+ -> U^^è^^ö^^Ï^^Eb
 Requested font "Amiri/BI/OT:script=arab;language=dflt;" at 12.00003pt
- -> ^^ÿX^^î
+ -> ^^^^8: ^^F
 
 Package fontspec Info: 
 (fontspec)             Amiri/BI scale = 0.8.
@@ -1827,14 +2589,49 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 File: geometry-xetex-bidi.def 2017/01/14 v0.2 bidi adaptations for geometry package for XeTeX engine
 ) (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
-) (/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
+)
+
+/home/zen/Documents/Rintisan Tulisan/Terjemah Thoharoh/terjemah-syarah-safinah-thaharah/main.tex:24: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 <
+      <<<<<< HEAD
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2025/02/06 v3.11 Customized lists
+\enitkv@toks@=\toks36
+\labelindent=\skip57
+\enit@outerparindent=\dimen171
+\enit@toks=\toks37
+\enit@inbox=\box55
+\enit@count@id=\count338
+\enitdp@description=\count339
+)
+
+/home/zen/Documents/Rintisan Tulisan/Terjemah Thoharoh/terjemah-syarah-safinah-thaharah/main.tex:32: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.32 >
+      >>>>>> d70b9bf770ae1c11c2e3876514f96f5eab6c395f
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+(/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
 Package: tcolorbox 2025/11/28 version 6.9.0 text color boxes
  (/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
-\pgfutil@everybye=\toks36
-\pgfutil@tempdima=\dimen171
-\pgfutil@tempdimb=\dimen172
+\pgfutil@everybye=\toks38
+\pgfutil@tempdima=\dimen172
+\pgfutil@tempdimb=\dimen173
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
-\pgfutil@abb=\box55
+\pgfutil@abb=\box56
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (/usr/share/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex)
 Package: pgfrcs 2025-08-29 v3.1.11a (3.1.11a)
 ))
@@ -1852,38 +2649,38 @@ Package graphics Info: Driver file: xetex.def on input line 106.
  (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def
 File: xetex.def 2025/11/01 v5.0p Graphics/color driver for xetex
 ))
-\Gin@req@height=\dimen173
-\Gin@req@width=\dimen174
+\Gin@req@height=\dimen174
+\Gin@req@width=\dimen175
 ) (/usr/share/texlive/texmf-dist/tex/latex/bidi/graphicx-xetex-bidi.def
 File: graphicx-xetex-bidi.def 2017/06/17 v0.5 bidi adaptations for graphicx package for XeTeX engine
 ) (/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
 Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks37
-\pgfkeys@temptoks=\toks38
+\pgfkeys@pathtoks=\toks39
+\pgfkeys@temptoks=\toks40
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
-\pgfkeys@tmptoks=\toks39
+\pgfkeys@tmptoks=\toks41
 ))
-\pgf@x=\dimen175
-\pgf@y=\dimen176
-\pgf@xa=\dimen177
-\pgf@ya=\dimen178
-\pgf@xb=\dimen179
-\pgf@yb=\dimen180
-\pgf@xc=\dimen181
-\pgf@yc=\dimen182
-\pgf@xd=\dimen183
-\pgf@yd=\dimen184
+\pgf@x=\dimen176
+\pgf@y=\dimen177
+\pgf@xa=\dimen178
+\pgf@ya=\dimen179
+\pgf@xb=\dimen180
+\pgf@yb=\dimen181
+\pgf@xc=\dimen182
+\pgf@yc=\dimen183
+\pgf@xd=\dimen184
+\pgf@yd=\dimen185
 \w@pgf@writea=\write3
 \r@pgf@reada=\read2
-\c@pgf@counta=\count338
-\c@pgf@countb=\count339
-\c@pgf@countc=\count340
-\c@pgf@countd=\count341
-\t@pgf@toka=\toks40
-\t@pgf@tokb=\toks41
-\t@pgf@tokc=\toks42
-\pgf@sys@id@count=\count342
+\c@pgf@counta=\count340
+\c@pgf@countb=\count341
+\c@pgf@countc=\count342
+\c@pgf@countd=\count343
+\t@pgf@toka=\toks42
+\t@pgf@tokb=\toks43
+\t@pgf@tokc=\toks44
+\pgf@sys@id@count=\count344
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2025-08-29 v3.1.11a (3.1.11a)
 )
@@ -1895,11 +2692,11 @@ File: pgfsys-dvipdfmx.def 2025-08-29 v3.1.11a (3.1.11a)
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
 File: pgfsys-common-pdf.def 2025-08-29 v3.1.11a (3.1.11a)
 )
-\pgfsys@objnum=\count343
+\pgfsys@objnum=\count345
 ))) (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgfsyssoftpath@smallbuffer@items=\count344
-\pgfsyssoftpath@bigbuffer@items=\count345
+\pgfsyssoftpath@smallbuffer@items=\count346
+\pgfsyssoftpath@bigbuffer@items=\count347
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 )) (/usr/share/texlive/texmf-dist/tex/latex/bidi/pgfsys-xetex-bidi.def
@@ -1925,52 +2722,52 @@ LaTeX Info: Redefining \color on input line 49.
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
 Package: pgfcore 2025-08-29 v3.1.11a (3.1.11a)
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen185
-\pgfmath@count=\count346
-\pgfmath@box=\box56
-\pgfmath@toks=\toks43
-\pgfmath@stack@operand=\toks44
-\pgfmath@stack@operation=\toks45
+\pgfmath@dimen=\dimen186
+\pgfmath@count=\count348
+\pgfmath@box=\box57
+\pgfmath@toks=\toks45
+\pgfmath@stack@operand=\toks46
+\pgfmath@stack@operation=\toks47
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count347
+\c@pgfmathroundto@lastzeros=\count349
 )) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@picminx=\dimen186
-\pgf@picmaxx=\dimen187
-\pgf@picminy=\dimen188
-\pgf@picmaxy=\dimen189
-\pgf@pathminx=\dimen190
-\pgf@pathmaxx=\dimen191
-\pgf@pathminy=\dimen192
-\pgf@pathmaxy=\dimen193
-\pgf@xx=\dimen194
-\pgf@xy=\dimen195
-\pgf@yx=\dimen196
-\pgf@yy=\dimen197
-\pgf@zx=\dimen198
-\pgf@zy=\dimen199
+\pgf@picminx=\dimen187
+\pgf@picmaxx=\dimen188
+\pgf@picminy=\dimen189
+\pgf@picmaxy=\dimen190
+\pgf@pathminx=\dimen191
+\pgf@pathmaxx=\dimen192
+\pgf@pathminy=\dimen193
+\pgf@pathmaxy=\dimen194
+\pgf@xx=\dimen195
+\pgf@xy=\dimen196
+\pgf@yx=\dimen197
+\pgf@yy=\dimen198
+\pgf@zx=\dimen199
+\pgf@zy=\dimen256
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@path@lastx=\dimen256
-\pgf@path@lasty=\dimen257
+\pgf@path@lastx=\dimen257
+\pgf@path@lasty=\dimen258
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
 File: pgfcorepathusage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@shorten@end@additional=\dimen258
-\pgf@shorten@start@additional=\dimen259
+\pgf@shorten@end@additional=\dimen259
+\pgf@shorten@start@additional=\dimen260
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgfpic=\box57
-\pgf@hbox=\box58
-\pgf@layerbox@main=\box59
-\pgf@picture@serial@count=\count348
+\pgfpic=\box58
+\pgf@hbox=\box59
+\pgf@layerbox@main=\box60
+\pgf@picture@serial@count=\count350
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgflinewidth=\dimen260
+\pgflinewidth=\dimen261
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
 File: pgfcoretransformations.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@pt@x=\dimen261
-\pgf@pt@y=\dimen262
-\pgf@pt@temp=\dimen263
+\pgf@pt@x=\dimen262
+\pgf@pt@y=\dimen263
+\pgf@pt@temp=\dimen264
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
@@ -1979,17 +2776,17 @@ File: pgfcoreobjects.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 File: pgfcorepathprocessing.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgfarrowsep=\dimen264
+\pgfarrowsep=\dimen265
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@max=\dimen265
-\pgf@sys@shading@range@num=\count349
-\pgf@shadingcount=\count350
+\pgf@max=\dimen266
+\pgf@sys@shading@range@num=\count351
+\pgf@shadingcount=\count352
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
 File: pgfcoreexternal.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgfexternal@startupbox=\box60
+\pgfexternal@startupbox=\box61
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
 File: pgfcorelayers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
@@ -2000,76 +2797,76 @@ File: pgfcorepatterns.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 File: pgfcorerdf.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 ))) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgfnodeparttextbox=\box61
+\pgfnodeparttextbox=\box62
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 ) (/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@nodesepstart=\dimen266
-\pgf@nodesepend=\dimen267
+\pgf@nodesepstart=\dimen267
+\pgf@nodesepend=\dimen268
 ) (/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2025-08-29 v3.1.11a (3.1.11a)
 )) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
 Package: pgffor 2025-08-29 v3.1.11a (3.1.11a)
-\pgffor@iter=\dimen268
-\pgffor@skip=\dimen269
-\pgffor@stack=\toks46
-\pgffor@toks=\toks47
+\pgffor@iter=\dimen269
+\pgffor@skip=\dimen270
+\pgffor@stack=\toks48
+\pgffor@toks=\toks49
 )) (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
 Package: tikz 2025-08-29 v3.1.11a (3.1.11a)
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@plot@mark@count=\count351
-\pgfplotmarksize=\dimen270
+\pgf@plot@mark@count=\count353
+\pgfplotmarksize=\dimen271
 )
-\tikz@lastx=\dimen271
-\tikz@lasty=\dimen272
-\tikz@lastxsaved=\dimen273
-\tikz@lastysaved=\dimen274
-\tikz@lastmovetox=\dimen275
-\tikz@lastmovetoy=\dimen276
-\tikzleveldistance=\dimen277
-\tikzsiblingdistance=\dimen278
-\tikz@figbox=\box62
-\tikz@figbox@bg=\box63
-\tikz@tempbox=\box64
-\tikz@tempbox@bg=\box65
-\tikztreelevel=\count352
-\tikznumberofchildren=\count353
-\tikznumberofcurrentchild=\count354
-\tikz@fig@count=\count355
+\tikz@lastx=\dimen272
+\tikz@lasty=\dimen273
+\tikz@lastxsaved=\dimen274
+\tikz@lastysaved=\dimen275
+\tikz@lastmovetox=\dimen276
+\tikz@lastmovetoy=\dimen277
+\tikzleveldistance=\dimen278
+\tikzsiblingdistance=\dimen279
+\tikz@figbox=\box63
+\tikz@figbox@bg=\box64
+\tikz@tempbox=\box65
+\tikz@tempbox@bg=\box66
+\tikztreelevel=\count354
+\tikznumberofchildren=\count355
+\tikznumberofcurrentchild=\count356
+\tikz@fig@count=\count357
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgfmatrixcurrentrow=\count356
-\pgfmatrixcurrentcolumn=\count357
-\pgf@matrix@numberofcolumns=\count358
+\pgfmatrixcurrentrow=\count358
+\pgfmatrixcurrentcolumn=\count359
+\pgf@matrix@numberofcolumns=\count360
 )
-\tikz@expandcount=\count359
+\tikz@expandcount=\count361
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 ))) (/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks48
-\verbatim@line=\toks49
+\every@verbatim=\toks50
+\verbatim@line=\toks51
 \verbatim@in@stream=\read3
 ) (/usr/share/texlive/texmf-dist/tex/latex/environ/environ.sty
 Package: environ 2014/05/04 v0.3 A new way to define environments
  (/usr/share/texlive/texmf-dist/tex/latex/trimspaces/trimspaces.sty
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 ))
-\tcb@titlebox=\box66
-\tcb@upperbox=\box67
-\tcb@lowerbox=\box68
-\tcb@phantombox=\box69
-\c@tcbbreakpart=\count360
-\c@tcblayer=\count361
-\c@tcolorbox@number=\count362
-\l__tcobox_tmpa_box=\box70
-\l__tcobox_tmpa_dim=\dimen279
-\tcb@temp=\box71
+\tcb@titlebox=\box67
+\tcb@upperbox=\box68
+\tcb@lowerbox=\box69
+\tcb@phantombox=\box70
+\c@tcbbreakpart=\count362
+\c@tcblayer=\count363
+\c@tcolorbox@number=\count364
+\l__tcobox_tmpa_box=\box71
+\l__tcobox_tmpa_dim=\dimen280
 \tcb@temp=\box72
 \tcb@temp=\box73
 \tcb@temp=\box74
+\tcb@temp=\box75
 ) (/usr/share/texlive/texmf-dist/tex/latex/bidi/tcolorbox-xetex-bidi.def
 File: tcolorbox-xetex-bidi.def 2018/11/11 v0.2 bidi adaptations for tcolorbox package for XeTeX engine
 )
@@ -2080,22 +2877,22 @@ Package polyglossia Warning: Asking to add empty feature to main font
 (./main.aux (./pengantar.aux) (./kitab_thaharah.aux) (./pasal _01.aux) (./pasal_02.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -2139,23 +2936,34 @@ Package polyglossia Warning: Asking to add empty feature to main font
 Package polyglossia Warning: Asking to add empty feature to main font
 (polyglossia)                (Language="Indonesian" to langtag "")
 
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 24.88pt on input line 58.
-Requested font "[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;+hv-kern;+tnum;+lnum;mapping=tex-text;" at 24.88pt
- -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Regular.otf
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
-(Font)              scaled to size 24.88pt on input line 58.
-Requested font "[LibertinusSerif-Bold.otf]/OT:script=latn;language=dflt;+hv-kern;+tnum;+lnum;mapping=tex-text;" at 24.88pt
- -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Bold.otf
+
+Package polyglossia Warning: Asking to add empty feature to main font
+(polyglossia)                (Language="Indonesian" to langtag "")
+
+[1
+
+]
+
+Package polyglossia Warning: Asking to add empty feature to main font
+(polyglossia)                (Language="Indonesian" to langtag "")
+
+LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
+(Font)              scaled to size 24.88pt on input line 68.
+Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+hv-kern;+tnum;+lnum;mapping=tex-text;" at 24.88pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_R.otf
+LaTeX Font Info:    Font shape `TU/LinLibertine(0)/b/n' will be
+(Font)              scaled to size 24.88pt on input line 68.
+Requested font "[LinLibertine_RB.otf]/OT:script=latn;language=dflt;+hv-kern;+tnum;+lnum;mapping=tex-text;" at 24.88pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RB.otf
 (./main.toc
 
 Package polyglossia Warning: Asking to add empty feature to main font
 (polyglossia)                (Language="Indonesian" to langtag "")
 
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
+LaTeX Font Info:    Font shape `TU/LinLibertine(0)/b/n' will be
 (Font)              scaled to size 12.0pt on input line 2.
-Requested font "[LibertinusSerif-Bold.otf]/OT:script=latn;language=dflt;+hv-kern;+tnum;+lnum;mapping=tex-text;" at 12.0pt
- -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Bold.otf
+Requested font "[LinLibertine_RB.otf]/OT:script=latn;language=dflt;+hv-kern;+tnum;+lnum;mapping=tex-text;" at 12.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RB.otf
 Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;+ssty=0;" at 9.6pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusMath-Regular.otf
 Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;+ssty=1;" at 7.2pt
@@ -2223,8 +3031,7 @@ Package polyglossia Warning: Asking to add empty feature to main font
 Package polyglossia Warning: Asking to add empty feature to main font
 (polyglossia)                (Language="Indonesian" to langtag "")
 
-[1
-
+[2
 
 ]
 \openout2 = `pengantar.aux'.
@@ -2237,19 +3044,19 @@ Package polyglossia Warning: Asking to add empty feature to main font
 LaTeX Font Info:    Font shape `TU/Amiri(0)/m/n' will be
 (Font)              scaled to size 9.60004pt on input line 4.
 Requested font "Amiri/OT:script=arab;language=dflt;" at 9.60004pt
- -> ^^L^^Ý8^^%^^L`
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/it' will be
+ -> g^^Ï^^ì^^Ï^^Eb
+LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/it' will be
 (Font)              scaled to size 12.0pt on input line 7.
-Requested font "[LibertinusSerif-Italic.otf]/OT:script=latn;language=dflt;+hv-kern;+tnum;+lnum;mapping=tex-text;" at 12.0pt
- -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Italic.otf
+Requested font "[LinLibertine_RI.otf]/OT:script=latn;language=dflt;+hv-kern;+tnum;+lnum;mapping=tex-text;" at 12.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RI.otf
 
 Underfull \hbox (badness 2080) in paragraph at lines 15--16
-[]\TU/LibertinusSerif(0)/m/it/12 rahimahullah\TU/LibertinusSerif(0)/m/n/12 , yang diambil dari pendapat beliau, pilihan ulama pengikut beliau dan[]
+[]\TU/LinLibertine(0)/m/it/12 rahimahullah\TU/LinLibertine(0)/m/n/12 , yang diambil dari pendapat beliau, pilihan ulama pengikut beliau dan[]
  []
 
 
 Underfull \hbox (badness 3250) in paragraph at lines 19--20
-[][]\TU/LibertinusSerif(0)/m/n/12 â€Berkomitmen pada suatu madzhab fikih bukan berarti menolak dalil dan tarjih[]
+[][]\TU/LinLibertine(0)/m/n/12 â€Berkomitmen pada suatu madzhab fikih bukan berarti menolak dalil dan tarjih[]
  []
 
 
@@ -2260,12 +3067,12 @@ Package polyglossia Warning: Asking to add empty feature to main font
 Package polyglossia Warning: Asking to add empty feature to main font
 (polyglossia)                (Language="Indonesian" to langtag "")
 
-[2
+[3
 
 
 ]
 Underfull \hbox (badness 1097) in paragraph at lines 21--22
-[]\TU/LibertinusSerif(0)/m/n/12 oleh Immam Al-Muzani \TU/LibertinusSerif(0)/m/it/12 rahimahullah \TU/LibertinusSerif(0)/m/n/12 dalam Mukhtasarnya. Maka barang siapa yang[]
+[]\TU/LinLibertine(0)/m/n/12 oleh Immam Al-Muzani \TU/LinLibertine(0)/m/it/12 rahimahullah \TU/LinLibertine(0)/m/n/12 dalam Mukhtasarnya. Maka barang siapa yang[]
  []
 
 )
@@ -2277,7 +3084,7 @@ Package polyglossia Warning: Asking to add empty feature to main font
 Package polyglossia Warning: Asking to add empty feature to main font
 (polyglossia)                (Language="Indonesian" to langtag "")
 
-[3]
+[4]
 \openout2 = `kitab_thaharah.aux'.
 
  (./kitab_thaharah.tex
@@ -2290,17 +3097,17 @@ Package polyglossia Warning: Asking to add empty feature to main font
 Package polyglossia Warning: Asking to add empty feature to main font
 (polyglossia)                (Language="Indonesian" to langtag "")
 
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
+LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
 (Font)              scaled to size 17.28pt on input line 3.
-Requested font "[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;+hv-kern;+tnum;+lnum;mapping=tex-text;" at 17.28pt
- -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Regular.otf
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
+Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+hv-kern;+tnum;+lnum;mapping=tex-text;" at 17.28pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_R.otf
+LaTeX Font Info:    Font shape `TU/LinLibertine(0)/b/n' will be
 (Font)              scaled to size 17.28pt on input line 3.
-Requested font "[LibertinusSerif-Bold.otf]/OT:script=latn;language=dflt;+hv-kern;+tnum;+lnum;mapping=tex-text;" at 17.28pt
- -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Bold.otf
+Requested font "[LinLibertine_RB.otf]/OT:script=latn;language=dflt;+hv-kern;+tnum;+lnum;mapping=tex-text;" at 17.28pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RB.otf
 
 Underfull \hbox (badness 1584) in paragraph at lines 13--14
-[][]\TU/LibertinusSerif(0)/b/n/12 Mengangkat hadats: \TU/LibertinusSerif(0)/m/n/12 Menghilangkan sifat syarâ€™i yang melekat pada badan yang[]
+[][]\TU/LinLibertine(0)/b/n/12 Mengangkat hadats: \TU/LinLibertine(0)/m/n/12 Menghilangkan sifat syarâ€™i yang melekat pada badan yang[]
  []
 
 
@@ -2319,7 +3126,7 @@ Package polyglossia Warning: Asking to add empty feature to main font
 Package polyglossia Warning: Asking to add empty feature to main font
 (polyglossia)                (Language="Indonesian" to langtag "")
 
-[4
+[5
 
 
 
@@ -2350,7 +3157,7 @@ Package polyglossia Warning: Asking to add empty feature to main font
 Package polyglossia Warning: Asking to add empty feature to main font
 (polyglossia)                (Language="Indonesian" to langtag "")
 
-[5]
+[6]
 \openout2 = `"pasal _01.aux"'.
 
  (./pasal _01.tex
@@ -2359,17 +3166,17 @@ BAB 2.
 Package polyglossia Warning: Asking to add empty feature to main font
 (polyglossia)                (Language="Indonesian" to langtag "")
 
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
+LaTeX Font Info:    Font shape `TU/LinLibertine(0)/b/n' will be
 (Font)              scaled to size 10.95pt on input line 3.
-Requested font "[LibertinusSerif-Bold.otf]/OT:script=latn;language=dflt;+hv-kern;+tnum;+lnum;mapping=tex-text;" at 10.95pt
- -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Bold.otf
+Requested font "[LinLibertine_RB.otf]/OT:script=latn;language=dflt;+hv-kern;+tnum;+lnum;mapping=tex-text;" at 10.95pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RB.otf
 LaTeX Font Info:    Font shape `TU/Amiri(0)/b/n' will be
 (Font)              scaled to size 9.60004pt on input line 12.
 Requested font "Amiri/B/OT:script=arab;language=dflt;" at 9.60004pt
- -> ^^W;o^^%^^L`
+ -> ^^t^^À^^Ï^^Eb
 
 Underfull \hbox (badness 2790) in paragraph at lines 14--15
-[][]\TU/LibertinusSerif(0)/b/n/12 Tanda ([][]\TU/Amiri(0)/b/n/12 Ø¹ÙŽÙ„ÙŽØ§Ù…ÙŽØ©[][]\TU/LibertinusSerif(0)/b/n/12 ) menurut istilah syariat adalah: \TU/LibertinusSerif(0)/m/n/12 Suatu yang dari keberadaannya[]
+[][]\TU/LinLibertine(0)/b/n/12 Tanda ([][]\TU/Amiri(0)/b/n/12 Ø¹ÙŽÙ„ÙŽØ§Ù…ÙŽØ©[][]\TU/LinLibertine(0)/b/n/12 ) menurut istilah syariat adalah: \TU/LinLibertine(0)/m/n/12 Suatu yang dari keberadaannya[]
  []
 
 
@@ -2381,10 +3188,19 @@ Package polyglossia Warning: Asking to add empty feature to main font
 (polyglossia)                (Language="Indonesian" to langtag "")
 
 
+Overfull \hbox (23.98793pt too wide) in paragraph at lines 30--30
+[][]\TU/LinLibertine(0)/b/n/17.28 Ihtilam pada umur 9 tahun bagi lakiâ€“laki dan perempuan []
+ []
+
+
 Package polyglossia Warning: Asking to add empty feature to main font
 (polyglossia)                (Language="Indonesian" to langtag "")
 
-[6
+
+Package polyglossia Warning: Asking to add empty feature to main font
+(polyglossia)                (Language="Indonesian" to langtag "")
+
+[7
 
 
 
@@ -2394,18 +3210,9 @@ Package polyglossia Warning: Asking to add empty feature to main font
 Package polyglossia Warning: Asking to add empty feature to main font
 (polyglossia)                (Language="Indonesian" to langtag "")
 
-
-Overfull \hbox (23.98793pt too wide) in paragraph at lines 30--30
-[][]\TU/LibertinusSerif(0)/b/n/17.28 Ihtilam pada umur 9 tahun bagi lakiâ€“laki dan perempuan []
- []
-
-
-Package polyglossia Warning: Asking to add empty feature to main font
-(polyglossia)                (Language="Indonesian" to langtag "")
-
 )
-Underfull \hbox (badness 1910) in paragraph at lines 42--64
-[][]\TU/LibertinusSerif(0)/b/n/12 Maksudnya: \TU/LibertinusSerif(0)/m/n/12 Perempuan mengalami haid setelah mencapai usia 9 tahun melalui[]
+Underfull \hbox (badness 1910) in paragraph at lines 42--74
+[][]\TU/LinLibertine(0)/b/n/12 Maksudnya: \TU/LinLibertine(0)/m/n/12 Perempuan mengalami haid setelah mencapai usia 9 tahun melalui[]
  []
 
 
@@ -2416,7 +3223,7 @@ Package polyglossia Warning: Asking to add empty feature to main font
 Package polyglossia Warning: Asking to add empty feature to main font
 (polyglossia)                (Language="Indonesian" to langtag "")
 
-[7]
+[8]
 \openout2 = `pasal_02.aux'.
 
  (./pasal_02.tex
@@ -2433,7 +3240,7 @@ Package polyglossia Warning: Asking to add empty feature to main font
 Package polyglossia Warning: Asking to add empty feature to main font
 (polyglossia)                (Language="Indonesian" to langtag "")
 
-[8
+[9
 
 
 
@@ -2447,19 +3254,19 @@ Package polyglossia Warning: Asking to add empty feature to main font
 Package polyglossia Warning: Asking to add empty feature to main font
 (polyglossia)                (Language="Indonesian" to langtag "")
 
-[9] (./main.aux (./pengantar.aux) (./kitab_thaharah.aux) (./pasal _01.aux) (./pasal_02.aux))
+[10] (./main.aux (./pengantar.aux) (./kitab_thaharah.aux) (./pasal _01.aux) (./pasal_02.aux))
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 25927 strings out of 470178
- 586925 string characters out of 5478557
- 1087858 words of memory out of 5000000
- 54044 multiletter control sequences out of 15000+600000
- 630009 words of font info for 102 fonts, out of 8000000 for 9000
+ 35791 strings out of 470178
+ 807023 string characters out of 5478557
+ 1202423 words of memory out of 5000000
+ 63830 multiletter control sequences out of 15000+600000
+ 630607 words of font info for 134 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 116i,5n,145p,1226b,611s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 116i,6n,145p,1226b,611s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (9 pages).
+Output written on main.pdf (10 pages).

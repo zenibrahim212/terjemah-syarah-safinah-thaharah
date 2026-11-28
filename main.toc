@@ -6,3 +6,4 @@
 \contentsline {section}{\numberline {2.1}Mencapai genap umur 15 tahun bagi laki–laki dan perempuan}{6}{}%
 \contentsline {section}{\numberline {2.2}Ihtilam pada umur 9 tahun bagi laki–laki dan perempuan}{7}{}%
 \contentsline {section}{\numberline {2.3}Haid pada usia 9 tahun bagi perempuan}{7}{}%
+\contentsline {chapter}{\numberline {3}Syarat-syarat Istinja dengan Batu}{8}{}%

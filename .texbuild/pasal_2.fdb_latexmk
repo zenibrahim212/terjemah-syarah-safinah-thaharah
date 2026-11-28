@@ -1,0 +1,15 @@
+# Fdb version 4
+["pdflatex"] 1795698464.08767 "pasal_2.tex" ".texbuild/pasal_2.pdf" "pasal_2" 1795698464.30457 2
+  ".texbuild/pasal_2.aux" 1795698456.08679 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "/etc/texmf/web2c/texmf.cnf" 1741769514 44663 102a78e45f2ab8dc7d3c7458e09825b9 ""
+  "/usr/share/texmf/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
+  "/usr/share/texmf/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
+  "/usr/share/texmf/fonts/tfm/public/cm/cmti10.tfm" 1136768653 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
+  "/usr/share/texmf/web2c/texmf.cnf" 1741769514 44663 102a78e45f2ab8dc7d3c7458e09825b9 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1795480988 3466851 debb80a4420161dccacaba67829e4a28 ""
+  "pasal_2.tex" 1795698448.6137 1853 0ff1328c591042660c1e3b3e3b831d42 ""
+  (generated)
+  ".texbuild/pasal_2.aux"
+  ".texbuild/pasal_2.log"
+  ".texbuild/pasal_2.pdf"
+  (rewritten before read)
